@@ -1,2 +1,2 @@
 # DBScuola
-Esercizio di prova per visualizzare una tabella creata in mySQL in eclipse
+Esercizio di prova per visualizzare in eclipse una tabella creata in mySQL
